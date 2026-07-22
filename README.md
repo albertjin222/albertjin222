@@ -14,6 +14,10 @@ I design and ship production systems across React, Next.js, React Native, Flutte
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -33,13 +37,21 @@ I design and ship production systems across React, Next.js, React Native, Flutte
 
 ## Featured work
 
-### Mobile
+### Native Android (Kotlin) & iOS (Swift / SwiftUI)
+| Project | Stack |
+| --- | --- |
+| [FleetTrack](https://github.com/albertjin222/fleettrack-android) | Kotlin · Jetpack Compose · Room · Maps |
+| [Budgetly](https://github.com/albertjin222/budgetly-android) | Kotlin · Jetpack Compose · Room · Material 3 |
+| [TransitGo](https://github.com/albertjin222/transitgo-android) | Kotlin · Jetpack Compose · Retrofit |
+| [ClinicCare](https://github.com/albertjin222/cliniccare-ios) | Swift · SwiftUI · Combine · Core Data |
+| [HabitKit](https://github.com/albertjin222/habitkit-ios) | Swift · SwiftUI · Combine · Core Data |
+| [MedSync](https://github.com/albertjin222/medsync-ios) | Swift · SwiftUI · HealthKit · Notifications |
+
+### Cross-platform mobile
 | Project | Stack |
 | --- | --- |
 | [Finova Wallet](https://github.com/albertjin222/finova-wallet) | React Native · Redux · Firebase |
 | [MoveWell](https://github.com/albertjin222/movewell-fitness) | Flutter · Dart · Provider |
-| [FleetTrack](https://github.com/albertjin222/fleettrack-android) | Kotlin · Jetpack Compose |
-| [ClinicCare](https://github.com/albertjin222/cliniccare-ios) | Swift · SwiftUI |
 | [CourierGo](https://github.com/albertjin222/couriergo) | React Native · Socket.IO |
 | [Evently](https://github.com/albertjin222/evently) | Expo · TanStack Query · Stripe |
 
